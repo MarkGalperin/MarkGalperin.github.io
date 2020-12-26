@@ -1,29 +1,10 @@
 ## MARK IS AWESEOME
 
-You can use the [editor on GitHub](https://github.com/MarkGalperin/MarkGalperin.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+You should hire mark
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Mark is the man
+mark is the man!
 
-### LOOK AT MARK
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# MARK 1
-## Header 2
-### Header MARK
-
-- Bulleted
-- List
-
-1. Numbered
-2. MARK
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
