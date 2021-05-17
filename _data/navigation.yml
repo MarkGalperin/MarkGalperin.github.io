@@ -10,3 +10,29 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
+
+snav:
+  - title: Projects
+    children:
+      - title: "Whisker Frames"
+        url: /pagetest/
+      - title: "NU Solar Car"
+        url: /pagetest/
+      - title: "Nickel Surprise"
+        url: /pagetest/
+      - title: "Engineers for a Sustainable World"
+        url: /pagetest/
+      - title: "Other Projects"
+        url: /pagetest/
+
+  - title: Media
+    children:
+      - title: "Gallery"
+        url: /pagetest/
+
+  - title: About
+    children:
+      - title: "About me!"
+        url: /pagetest/
+      - title: "Resume"
+        url: /pagetest/
