@@ -22,5 +22,6 @@ def hat(w):
 
 Latex:
 
-$$ g_3\ ({x}^t\ ):\ (x_1^t-x_1^{t-1}\ )^2+(x_2^t-x_2^{t-1}\ )^2-R^2\le0 $$
+$$  
+\left[\begin{matrix}0 & - w_{3} & w_{2}\\w_{3} & 0 & - w_{1}\\- w_{2} & w_{1} & 0\end{matrix}\right] $$
 
