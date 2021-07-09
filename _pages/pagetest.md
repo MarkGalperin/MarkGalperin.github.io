@@ -1,8 +1,6 @@
 ---
 title: "Sample Page"
 permalink: /pagetest/
-sidebar:
-  nav: "snav"
 usemathjax: true
 ---
 
@@ -33,4 +31,4 @@ $$
 
 (kramdown)
 
-![its-me-mark](\..\assets\images\mark.jpg){:class="img-responsive" width = 250}
+![its-me-mark](\..\assets\images\mark.jpg){:class="img-responsive"}
