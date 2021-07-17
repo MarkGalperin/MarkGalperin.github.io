@@ -49,8 +49,8 @@ wfnav:
         url: /pagetest/
       - title: "page3"
         url: /pagetest/
-      - title: "page4"
-        url: /pagetest/
+      - title: "MS Thesis"
+        url: /MG_MSThesis.pdf
 
   - title: More Projects
     children:
