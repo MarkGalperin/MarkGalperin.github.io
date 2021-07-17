@@ -96,7 +96,7 @@ analytics:
 author:
   name             : "Mark Galperin"
   avatar           : "/assets/images/mark.jpg"
-  bio              : "the c00lest cat in the biz"
+  bio              : "Engineering Portfolio"
   # location         : "Evanston, IL"
   email            :
   links:
@@ -269,13 +269,19 @@ compress_html:
 
 # Collections
 collections:
-  recipes:
+  whiskerframes:
     output: true
     permalink: /:collection/:path/
-  pets:
+  solarcar:
     output: true
     permalink: /:collection/:path/
-  portfolio:
+  nickel:
+    output: true
+    permalink: /:collection/:path/
+  esw:
+    output: true
+    permalink: /:collection/:path/
+  other:
     output: true
     permalink: /:collection/:path/
 

@@ -1,6 +1,6 @@
 # main links
 main:
-  - title: "glep"
+  - title: "About"
     url: /pagetest/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
@@ -15,7 +15,7 @@ snav:
   - title: Projects
     children:
       - title: "Whisker Frames"
-        url: /pagetest/
+        url: /whiskerframes/overview
       - title: "NU Solar Car"
         url: /pagetest/
       - title: "Nickel Surprise"
@@ -33,6 +33,163 @@ snav:
   - title: About
     children:
       - title: "About me!"
-        url: /pagetest/
+        url: /about/
       - title: "Resume"
+        url: /assets/documents/MarkGalperin_Resume.pdf
+
+# Whisker frames sidenav
+wfnav:
+  - title: Whisker Frames
+    children:
+      - title: "Overview"
+        url: /whiskerframes/overview
+      - title: "page1"
         url: /pagetest/
+      - title: "page2"
+        url: /pagetest/
+      - title: "page3"
+        url: /pagetest/
+      - title: "page4"
+        url: /pagetest/
+
+  - title: More Projects
+    children:
+      - title: "NU Solar Car"
+        url: /pagetest/
+      - title: "Nickel Surprise"
+        url: /pagetest/
+      - title: "Engineers for a Sustainable World"
+        url: /pagetest/
+      - title: "Other Projects"
+        url: /pagetest/
+
+  - title: About
+    children:
+      - title: "About me!"
+        url: /about/
+      - title: "Resume"
+        url: /assets/documents/MarkGalperin_Resume.pdf
+
+# Solar car sidenav
+scnav:
+  - title: NU Solar Car
+    children:
+      - title: "page1"
+        url: /pagetest/
+      - title: "page2"
+        url: /pagetest/
+      - title: "page3"
+        url: /pagetest/
+      - title: "page4"
+        url: /pagetest/
+
+  - title: More Projects
+    children:
+      - title: "Whisker Frames"
+        url: /pagetest/
+      - title: "Nickel Surprise"
+        url: /pagetest/
+      - title: "Engineers for a Sustainable World"
+        url: /pagetest/
+      - title: "Other Projects"
+        url: /pagetest/
+
+  - title: About
+    children:
+      - title: "About me!"
+        url: /about/
+      - title: "Resume"
+        url: /assets/documents/MarkGalperin_Resume.pdf
+
+# Nickel surprise sidenav
+nsnav:
+  - title: Nickel Surprise
+    children:
+      - title: "page1"
+        url: /pagetest/
+      - title: "page2"
+        url: /pagetest/
+      - title: "page3"
+        url: /pagetest/
+      - title: "page4"
+        url: /pagetest/
+
+  - title: More Projects
+    children:
+      - title: "Whisker Frames"
+        url: /pagetest/
+      - title: "Solar Car"
+        url: /pagetest/
+      - title: "Engineers for a Sustainable World"
+        url: /pagetest/
+      - title: "Other Projects"
+        url: /pagetest/
+
+  - title: About
+    children:
+      - title: "About me!"
+        url: /about/
+      - title: "Resume"
+        url: /assets/documents/MarkGalperin_Resume.pdf
+
+# ESW sidenav
+eswnav:
+  - title: Engineers for a Sustainable World
+    children:
+      - title: "page1"
+        url: /pagetest/
+      - title: "page2"
+        url: /pagetest/
+      - title: "page3"
+        url: /pagetest/
+      - title: "page4"
+        url: /pagetest/
+
+  - title: More Projects
+    children:
+      - title: "Whisker Frames"
+        url: /pagetest/
+      - title: "Solar Car"
+        url: /pagetest/
+      - title: "Nickel Surprise"
+        url: /pagetest/
+      - title: "Other Projects"
+        url: /pagetest/
+
+  - title: About
+    children:
+      - title: "About me!"
+        url: /about/
+      - title: "Resume"
+        url: /assets/documents/MarkGalperin_Resume.pdf
+
+# ESW sidenav
+othernav:
+  - title: Other Projects
+    children:
+      - title: "page1"
+        url: /pagetest/
+      - title: "page2"
+        url: /pagetest/
+      - title: "page3"
+        url: /pagetest/
+      - title: "page4"
+        url: /pagetest/
+
+  - title: More Projects
+    children:
+      - title: "Whisker Frames"
+        url: /pagetest/
+      - title: "Solar Car"
+        url: /pagetest/
+      - title: "Nickel Surprise"
+        url: /pagetest/
+      - title: "Engineers for a Sustainable World"
+        url: /pagetest/
+
+  - title: About
+    children:
+      - title: "About me!"
+        url: /about/
+      - title: "Resume"
+        url: /assets/documents/MarkGalperin_Resume.pdf
