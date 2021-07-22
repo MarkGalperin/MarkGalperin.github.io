@@ -14,17 +14,17 @@ feature_row:
     alt: "customizable"
     title: "Engineering Portfolio"
     excerpt: #"My engineering projects, documentation, and drawings"
-    url: "/docs/configuration/"
+    url: "/pagetest/"
     btn_class: "btn--primary"
-    btn_label: "Learn more"
+    btn_label: "Portfolio"
 
   - image_path: /assets/images/stinker.jpg
     alt: "Blog"
     title: "Blog"
     excerpt: #"Stuff I'm working and thinking through"
-    url: "/docs/layouts/"
+    url: "/bloghome/"
     btn_class: "btn--primary"
-    btn_label: "Learn more"
+    btn_label: "Blog"
 
   - image_path: /assets/images/stinker.jpg
     alt: "About"
@@ -32,7 +32,7 @@ feature_row:
     excerpt: #"About me!"
     url: "/docs/license/"
     btn_class: "btn--primary"
-    btn_label: "Learn more"      
+    btn_label: "Portfolio"      
 ---
 
 {% include feature_row %}

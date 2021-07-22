@@ -17,13 +17,13 @@ snav:
       - title: "Whisker Frames"
         url: /whiskerframes/overview
       - title: "NU Solar Car"
-        url: /pagetest/
+        url: /solarcar/overview
       - title: "Nickel Surprise"
-        url: /pagetest/
+        url: /nickel/overview
       - title: "Engineers for a Sustainable World"
-        url: /pagetest/
+        url: /esw/esw
       - title: "Other Projects"
-        url: /pagetest/
+        url: /other/myprojects
 
   - title: Media
     children:
@@ -43,25 +43,27 @@ wfnav:
     children:
       - title: "Overview"
         url: /whiskerframes/overview
-      - title: "page1"
-        url: /pagetest/
-      - title: "page2"
-        url: /pagetest/
-      - title: "page3"
-        url: /pagetest/
+      - title: "Build Iteration"
+        url: /whiskerframes/build
+      - title: "Vector Modeling"
+        url: /whiskerframes/vector
+      - title: "Trajectory Optimization"
+        url: /whiskerframes/optimization
+      - title: "Ongoing Work"
+        url: /whiskerframes/future
       - title: "MS Thesis"
         url: /MSThesis.pdf
 
   - title: More Projects
     children:
       - title: "NU Solar Car"
-        url: /pagetest/
+        url: /solarcar/overview
       - title: "Nickel Surprise"
-        url: /pagetest/
+        url: /nickel/overview
       - title: "Engineers for a Sustainable World"
-        url: /pagetest/
+        url: /esw/esw
       - title: "Other Projects"
-        url: /pagetest/
+        url: /other/myprojects
 
   - title: About
     children:
@@ -74,25 +76,23 @@ wfnav:
 scnav:
   - title: NU Solar Car
     children:
-      - title: "page1"
-        url: /pagetest/
-      - title: "page2"
-        url: /pagetest/
-      - title: "page3"
-        url: /pagetest/
-      - title: "page4"
-        url: /pagetest/
+      - title: "Overview"
+        url: /solarcar/overview
+      - title: "Design"
+        url: /solarcar/design
+      - title: "Manufacturing"
+        url: /solarcar/manufacturing
 
   - title: More Projects
     children:
       - title: "Whisker Frames"
-        url: /pagetest/
+        url: /whiskerframes/overview
       - title: "Nickel Surprise"
-        url: /pagetest/
+        url: /nickel/overview
       - title: "Engineers for a Sustainable World"
-        url: /pagetest/
+        url: /esw/esw
       - title: "Other Projects"
-        url: /pagetest/
+        url: /other/myprojects
 
   - title: About
     children:
@@ -105,25 +105,23 @@ scnav:
 nsnav:
   - title: Nickel Surprise
     children:
-      - title: "page1"
-        url: /pagetest/
-      - title: "page2"
-        url: /pagetest/
-      - title: "page3"
-        url: /pagetest/
-      - title: "page4"
-        url: /pagetest/
+      - title: "Overview"
+        url: /nickel/overview
+      - title: "Process"
+        url: /nickel/process
+      - title: "Design"
+        url: /nickel/design
 
   - title: More Projects
     children:
       - title: "Whisker Frames"
-        url: /pagetest/
-      - title: "Solar Car"
-        url: /pagetest/
+        url: /whiskerframes/overview
+      - title: "NU Solar Car"
+        url: /solarcar/overview
       - title: "Engineers for a Sustainable World"
-        url: /pagetest/
+        url: /esw/esw
       - title: "Other Projects"
-        url: /pagetest/
+        url: /other/myprojects
 
   - title: About
     children:
@@ -136,25 +134,21 @@ nsnav:
 eswnav:
   - title: Engineers for a Sustainable World
     children:
-      - title: "page1"
-        url: /pagetest/
-      - title: "page2"
-        url: /pagetest/
-      - title: "page3"
-        url: /pagetest/
-      - title: "page4"
-        url: /pagetest/
+      - title: "ESW Leadership"
+        url: /esw/esw
+      - title: "NU Urban Agrulture"
+        url: /esw/urbanag
 
   - title: More Projects
     children:
       - title: "Whisker Frames"
-        url: /pagetest/
-      - title: "Solar Car"
-        url: /pagetest/
+        url: /whiskerframes/overview
+      - title: "NU Solar Car"
+        url: /solarcar/overview
       - title: "Nickel Surprise"
-        url: /pagetest/
+        url: /nickel/overview
       - title: "Other Projects"
-        url: /pagetest/
+        url: /other/myprojects
 
   - title: About
     children:
@@ -163,29 +157,27 @@ eswnav:
       - title: "Resume"
         url: /assets/documents/MarkGalperin_Resume.pdf
 
-# ESW sidenav
+# other sidenav
 othernav:
   - title: Other Projects
     children:
-      - title: "page1"
-        url: /pagetest/
-      - title: "page2"
-        url: /pagetest/
-      - title: "page3"
-        url: /pagetest/
-      - title: "page4"
-        url: /pagetest/
+      - title: "Other Projects"
+        url: /other/myprojects
+      - title: "Voronoi Waffles"
+        url: /other/voronoiwaffle
+      - title: "Architecture"
+        url: /other/architecture
 
   - title: More Projects
     children:
       - title: "Whisker Frames"
-        url: /pagetest/
-      - title: "Solar Car"
-        url: /pagetest/
+        url: /whiskerframes/overview
+      - title: "NU Solar Car"
+        url: /solarcar/overview
       - title: "Nickel Surprise"
-        url: /pagetest/
+        url: /nickel/overview
       - title: "Engineers for a Sustainable World"
-        url: /pagetest/
+        url: /esw/esw
 
   - title: About
     children:

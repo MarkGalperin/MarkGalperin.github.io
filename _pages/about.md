@@ -1,5 +1,5 @@
 ---
-title: "about"
+title: "Mark Galperin - about"
 permalink: /about/
 usemathjax: true
 ---

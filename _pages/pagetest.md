@@ -20,8 +20,7 @@ def hat(w):
 
 Latex:
 
-$$  
-\hat{w} = \left[\begin{matrix}0 & - w_{3} & w_{2}\\w_{3} & 0 & - w_{1}\\- w_{2} & w_{1} & 0\end{matrix}\right] $$
+$$  \hat{w} = \left[\begin{matrix}0 & - w_{3} & w_{2}\\w_{3} & 0 & - w_{1}\\- w_{2} & w_{1} & 0\end{matrix}\right] $$
 
 ### Images
 
