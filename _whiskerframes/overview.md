@@ -14,8 +14,8 @@ gallery1:
     image_path: /assets/images/whiskerframes/image7.png
     alt: "placeholder image 2"
   - url: /assets/images/whiskerframes/image6.png
-    image_path: /assets/images/whiskerframes/image6.png
-    alt: "placeholder image 2"
+    image_path: /assets/images/whiskerframes/image6.PNG
+    alt: "Dorfl Figure"
 gallery2:
   - url: /assets/images/stinker.jpg
     image_path: /assets/images/stinker.jpg
@@ -25,7 +25,7 @@ gallery2:
     alt: "placeholder image 2"
 ---
 
-![banner](\..\assets\images\notbad2.jpg){:class="img-responsive"}
+![banner](\..\assets\images\notbad2.JPG){:class="img-responsive"}
 
 The SeNSE Lab of Dr. Mitra Hartmann aims to replicate the versatile activesensing behavior of **whiskers** in rats and mice, designing artificial whiskers that **give robots a sense of touch**. An important component of rodent whisker sensing is the ability to move their whiskers, a process known as “whisking”. 
 
