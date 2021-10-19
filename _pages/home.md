@@ -13,7 +13,7 @@ excerpt: Engineer, designer
 Hello! I'm still building my site, but you can learn more about my projects on my [PDF portfolio.](/portfolio.pdf) 
 
 
-<!--> this comments out everything
+<!-- this comments out everything
 <a href="/portfolio">
   ![banner](\..\assets\images\homebanners\portfolio.jpg){:class="img-responsive"}
 </a>
@@ -26,3 +26,4 @@ Hello! I'm still building my site, but you can learn more about my projects on m
   ![banner](\..\assets\images\homebanners\about.jpg){:class="img-responsive"}
 </a>
 
+-->

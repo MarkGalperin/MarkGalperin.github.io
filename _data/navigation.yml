@@ -1,7 +1,7 @@
 # main links
 main:
   - title: "About"
-    url: /pagetest/
+    url: /about/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
@@ -24,11 +24,6 @@ snav:
         url: /esw/esw
       - title: "Other Projects"
         url: /other/myprojects
-
-  - title: Media
-    children:
-      - title: "Gallery"
-        url: /pagetest/
 
   - title: About
     children:
