@@ -12,6 +12,7 @@ excerpt: Engineer, designer
 
 Hello! I'm still building my site, but you can learn more about my projects on my [PDF portfolio.](/portfolio.pdf) 
 
+You can check out my resume [here](/resume.pdf) 
 
 <!-- this comments out everything
 <a href="/portfolio">
