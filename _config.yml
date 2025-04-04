@@ -20,7 +20,7 @@ title                    : "Mark Galperin"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : # "Mark Galperin"
-description              : "Mark's sweet portfolio"
+description              : "Mark's portfolio"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -95,7 +95,7 @@ analytics:
 # Site Author
 author:
   name             : "Mark Galperin"
-  avatar           : "/assets/images/handsome.jpg"
+  # avatar           : "/assets/images/handsome.jpg"
   bio              : "Engineering Portfolio"
   # location         : "Evanston, IL"
   email            :
@@ -268,22 +268,27 @@ compress_html:
 
 
 # Collections
+collections_dir: content
 collections:
+  pages:
+    output: true
+    permalink: /:name/
+
   whiskerframes:
     output: true
-    permalink: /:collection/:path/
+    # permalink: /:collection/:path/
   solarcar:
     output: true
-    permalink: /:collection/:path/
+    # permalink: /:collection/:path/
   nickel:
     output: true
-    permalink: /:collection/:path/
+    # permalink: /:collection/:path/
   esw:
     output: true
-    permalink: /:collection/:path/
+    # permalink: /:collection/:path/
   other:
     output: true
-    permalink: /:collection/:path/
+    # permalink: /:collection/:path/
 
 # Defaults
 defaults:
