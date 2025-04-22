@@ -2,19 +2,20 @@
 layout: "splash"
 permalink: "/"
 hidden: true
+title: "welcome"
 header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/gradpose.jpg
 
-excerpt: engineer, etc.
+excerpt: ""
+share: false        # Removes sharing buttons
 ---
 
-<!-- Hello! I'm still building my site, but you can learn more about my projects on my [PDF portfolio.](/portfolio.pdf) 
+Hello! I'm still building my site, but you can learn more about my projects on my [PDF portfolio.](/portfolio.pdf) 
 
-You can check out my resume [here](/resume.pdf)  -->
+You can check out my resume [here](/resume.pdf) 
 
-<!-- this comments out everything -->
-<a href="/portfolio">
+<!-- <a href="/portfolio">
   ![banner](\..\assets\images\homebanners\portfolio.jpg){:class="img-responsive"}
 </a>
 
@@ -22,7 +23,7 @@ You can check out my resume [here](/resume.pdf)  -->
   ![banner](\..\assets\images\homebanners\blog.jpg){:class="img-responsive"}
 </a>
 
-<a href="{{ '/about/' | relative_url }}">About</a>
+<a href="{{ '/about/' | relative_url }}">About</a> -->
   <!-- ![banner](\..\assets\images\homebanners\about.jpg){:class="img-responsive"}
 </a> -->
 

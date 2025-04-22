@@ -145,7 +145,7 @@ footer:
 # Reading Files
 include:
   - .htaccess
-  - _pages
+  # - _pages
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
@@ -295,18 +295,18 @@ defaults:
   # _posts
   - scope:
       path: ""
-      type: posts
-    values:
-      layout: single
-      sidebar:
-        nav: "snav"
-      author_profile: true
-  # _pages
-  - scope:
-      path: "_pages"
       type: pages
     values:
       layout: single
       sidebar:
         nav: "snav"
       author_profile: true
+  # _pages
+  # - scope:
+  #     path: "_pages"
+  #     type: pages
+  #   values:
+  #     layout: single
+  #     sidebar:
+  #       nav: "snav"
+  #     author_profile: true

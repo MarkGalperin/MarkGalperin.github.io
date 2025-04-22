@@ -1,0 +1,415 @@
+this is a text file showing the output of the bash command "tree ." from my top level directory
+
+.
+├── assets
+│   ├── css
+│   │   └── main.scss
+│   ├── documents
+│   │   └── MSThesis.pdf
+│   ├── images
+│   │   ├── better8.JPG
+│   │   ├── gradpose.jpg
+│   │   ├── handsome.jpg
+│   │   ├── homebanners
+│   │   │   ├── about.jpg
+│   │   │   ├── about.xcf
+│   │   │   ├── blog.jpg
+│   │   │   ├── blog.xcf
+│   │   │   ├── portfolio.jpg
+│   │   │   └── portfolio.xcf
+│   │   ├── jump.jpg
+│   │   ├── MarkGalperin.jpg
+│   │   ├── mark.jpg
+│   │   ├── MG_transparent.png
+│   │   ├── notbad2.JPG
+│   │   ├── solarcar
+│   │   │   ├── 20200210_010849572_iOS.jpg
+│   │   │   ├── 20200214_183822149_iOS.jpg
+│   │   │   ├── 20200214_184800672_iOS.jpg
+│   │   │   ├── 20200218_182727597_iOS.jpg
+│   │   │   ├── 20200302_225606082_iOS.jpg
+│   │   │   ├── 20200306_063214837_iOS.jpg
+│   │   │   ├── 20200306_074527401_iOS.jpg
+│   │   │   └── bossnicky.jpg
+│   │   ├── stinker.jpg
+│   │   ├── tinified.zip
+│   │   └── whiskerframes
+│   │       ├── image10.png
+│   │       ├── image11.png
+│   │       ├── image13.png
+│   │       ├── image14.gif
+│   │       ├── image15.jpg
+│   │       ├── image16.jpeg
+│   │       ├── image17.gif
+│   │       ├── image18.gif
+│   │       ├── image24.png
+│   │       ├── image2.png
+│   │       ├── image34.png
+│   │       ├── image35.gif
+│   │       ├── image3.png
+│   │       ├── image4.png
+│   │       ├── image58.png
+│   │       ├── image59.png
+│   │       ├── image5.png
+│   │       ├── image6.PNG
+│   │       ├── image7.png
+│   │       ├── image80.gif
+│   │       ├── image8.jpg
+│   │       ├── image93.jpeg
+│   │       └── media2.avi
+│   └── js
+│       ├── lunr
+│       │   ├── lunr-en.js
+│       │   ├── lunr-gr.js
+│       │   ├── lunr.js
+│       │   ├── lunr.min.js
+│       │   └── lunr-store.js
+│       ├── _main.js
+│       ├── main.min.js
+│       ├── plugins
+│       │   ├── gumshoe.js
+│       │   ├── jquery.ba-throttle-debounce.js
+│       │   ├── jquery.fitvids.js
+│       │   ├── jquery.greedy-navigation.js
+│       │   ├── jquery.magnific-popup.js
+│       │   └── smooth-scroll.js
+│       └── vendor
+│           └── jquery
+│               └── jquery-3.5.1.js
+├── banner.js
+├── _config.yml
+├── content
+│   ├── _esw
+│   │   ├── esw.md
+│   │   └── urbanag.md
+│   ├── _nickel
+│   │   ├── design.md
+│   │   ├── overview.md
+│   │   └── process.md
+│   ├── _other
+│   │   ├── architecture.md
+│   │   ├── myprojects.md
+│   │   └── voronoiwaffle.md
+│   ├── _pages
+│   │   ├── about.md
+│   │   ├── bloghome.md
+│   │   ├── esw_archive.md
+│   │   ├── home.md
+│   │   ├── nickel_archive.md
+│   │   ├── other_archive.md
+│   │   ├── pagetest.md
+│   │   ├── portfoliohome.md
+│   │   ├── solarcar_archive.md
+│   │   └── whiskerframes_archive.md
+│   ├── _posts
+│   │   └── 2021-07-02-blog-test.md
+│   ├── _solarcar
+│   │   ├── design.md
+│   │   ├── manufacturing.md
+│   │   └── overview.md
+│   └── _whiskerframes
+│       ├── build.md
+│       ├── future.md
+│       ├── optimization.md
+│       ├── overview.md
+│       └── vector.md
+├── _data
+│   ├── navigation.yml
+│   └── ui-text.yml
+├── Gemfile
+├── Gemfile.lock
+├── _includes
+│   ├── analytics.html
+│   ├── analytics-providers
+│   │   ├── custom.html
+│   │   ├── google-gtag.html
+│   │   ├── google.html
+│   │   └── google-universal.html
+│   ├── archive-single.html
+│   ├── author-profile-custom-links.html
+│   ├── author-profile.html
+│   ├── breadcrumbs.html
+│   ├── browser-upgrade.html
+│   ├── category-list.html
+│   ├── comment.html
+│   ├── comments.html
+│   ├── comments-providers
+│   │   ├── custom.html
+│   │   ├── custom_scripts.html
+│   │   ├── discourse.html
+│   │   ├── disqus.html
+│   │   ├── facebook.html
+│   │   ├── scripts.html
+│   │   ├── staticman.html
+│   │   ├── staticman_v2.html
+│   │   └── utterances.html
+│   ├── documents-collection.html
+│   ├── feature_row
+│   ├── figure
+│   ├── footer
+│   │   └── custom.html
+│   ├── footer.html
+│   ├── gallery
+│   ├── group-by-array
+│   ├── head
+│   │   └── custom.html
+│   ├── head.html
+│   ├── masthead.html
+│   ├── nav_list
+│   ├── page__date.html
+│   ├── page__hero.html
+│   ├── page__hero_video.html
+│   ├── page__meta.html
+│   ├── page__taxonomy.html
+│   ├── paginator.html
+│   ├── post_pagination.html
+│   ├── posts-category.html
+│   ├── posts-tag.html
+│   ├── scripts.html
+│   ├── search
+│   │   ├── algolia-search-scripts.html
+│   │   ├── google-search-scripts.html
+│   │   ├── lunr-search-scripts.html
+│   │   └── search_form.html
+│   ├── seo.html
+│   ├── sidebar.html
+│   ├── skip-links.html
+│   ├── social-share.html
+│   ├── tag-list.html
+│   ├── toc
+│   ├── toc.html
+│   └── video
+├── _layouts
+│   ├── archive.html
+│   ├── archive-taxonomy.html
+│   ├── categories.html
+│   ├── category.html
+│   ├── collection.html
+│   ├── compress.html
+│   ├── default.html
+│   ├── home.html
+│   ├── posts.html
+│   ├── search.html
+│   ├── single.html
+│   ├── splash.html
+│   ├── tag.html
+│   └── tags.html
+├── LICENSE
+├── minimal-mistakes-jekyll.gemspec
+├── package.json
+├── package-lock.json
+├── portfolio.pdf
+├── Rakefile
+├── README.md
+├── resume.pdf
+├── _sass
+│   ├── minimal-mistakes
+│   │   ├── _animations.scss
+│   │   ├── _archive.scss
+│   │   ├── _base.scss
+│   │   ├── _buttons.scss
+│   │   ├── _footer.scss
+│   │   ├── _forms.scss
+│   │   ├── _masthead.scss
+│   │   ├── _mixins.scss
+│   │   ├── _navigation.scss
+│   │   ├── _notices.scss
+│   │   ├── _page.scss
+│   │   ├── _print.scss
+│   │   ├── _reset.scss
+│   │   ├── _search.scss
+│   │   ├── _sidebar.scss
+│   │   ├── skins
+│   │   │   ├── _air.scss
+│   │   │   ├── _aqua.scss
+│   │   │   ├── _contrast.scss
+│   │   │   ├── _dark.scss
+│   │   │   ├── _default.scss
+│   │   │   ├── _dirt.scss
+│   │   │   ├── _mint.scss
+│   │   │   ├── _neon.scss
+│   │   │   ├── _plum.scss
+│   │   │   └── _sunrise.scss
+│   │   ├── _syntax.scss
+│   │   ├── _tables.scss
+│   │   ├── _utilities.scss
+│   │   ├── _variables.scss
+│   │   └── vendor
+│   │       ├── breakpoint
+│   │       │   ├── _breakpoint.scss
+│   │       │   ├── _context.scss
+│   │       │   ├── _helpers.scss
+│   │       │   ├── _legacy-settings.scss
+│   │       │   ├── _no-query.scss
+│   │       │   ├── parsers
+│   │       │   │   ├── double
+│   │       │   │   │   ├── _default-pair.scss
+│   │       │   │   │   ├── _default.scss
+│   │       │   │   │   └── _double-string.scss
+│   │       │   │   ├── _double.scss
+│   │       │   │   ├── _query.scss
+│   │       │   │   ├── resolution
+│   │       │   │   │   └── _resolution.scss
+│   │       │   │   ├── _resolution.scss
+│   │       │   │   ├── single
+│   │       │   │   │   └── _default.scss
+│   │       │   │   ├── _single.scss
+│   │       │   │   ├── triple
+│   │       │   │   │   └── _default.scss
+│   │       │   │   └── _triple.scss
+│   │       │   ├── _parsers.scss
+│   │       │   ├── _respond-to.scss
+│   │       │   └── _settings.scss
+│   │       ├── magnific-popup
+│   │       │   ├── _magnific-popup.scss
+│   │       │   └── _settings.scss
+│   │       └── susy
+│   │           ├── plugins
+│   │           │   ├── svg-grid
+│   │           │   │   ├── _prefix.scss
+│   │           │   │   ├── _svg-api.scss
+│   │           │   │   ├── _svg-grid-math.scss
+│   │           │   │   ├── _svg-settings.scss
+│   │           │   │   ├── _svg-unprefix.scss
+│   │           │   │   └── _svg-utilities.scss
+│   │           │   └── _svg-grid.scss
+│   │           ├── _su.scss
+│   │           ├── susy
+│   │           │   ├── _api.scss
+│   │           │   ├── _normalize.scss
+│   │           │   ├── _parse.scss
+│   │           │   ├── _settings.scss
+│   │           │   ├── _su-math.scss
+│   │           │   ├── _su-validate.scss
+│   │           │   ├── _syntax-helpers.scss
+│   │           │   ├── _unprefix.scss
+│   │           │   └── _utilities.scss
+│   │           ├── _susy-prefix.scss
+│   │           └── _susy.scss
+│   └── minimal-mistakes.scss
+├── _site
+│   ├── about
+│   │   └── index.html
+│   ├── assets
+│   │   ├── css
+│   │   │   ├── main.css
+│   │   │   └── main.css.map
+│   │   ├── documents
+│   │   │   └── MSThesis.pdf
+│   │   ├── images
+│   │   │   ├── better8.JPG
+│   │   │   ├── gradpose.jpg
+│   │   │   ├── handsome.jpg
+│   │   │   ├── homebanners
+│   │   │   │   ├── about.jpg
+│   │   │   │   ├── about.xcf
+│   │   │   │   ├── blog.jpg
+│   │   │   │   ├── blog.xcf
+│   │   │   │   ├── portfolio.jpg
+│   │   │   │   └── portfolio.xcf
+│   │   │   ├── jump.jpg
+│   │   │   ├── MarkGalperin.jpg
+│   │   │   ├── mark.jpg
+│   │   │   ├── MG_transparent.png
+│   │   │   ├── notbad2.JPG
+│   │   │   ├── solarcar
+│   │   │   │   ├── 20200210_010849572_iOS.jpg
+│   │   │   │   ├── 20200214_183822149_iOS.jpg
+│   │   │   │   ├── 20200214_184800672_iOS.jpg
+│   │   │   │   ├── 20200218_182727597_iOS.jpg
+│   │   │   │   ├── 20200302_225606082_iOS.jpg
+│   │   │   │   ├── 20200306_063214837_iOS.jpg
+│   │   │   │   ├── 20200306_074527401_iOS.jpg
+│   │   │   │   └── bossnicky.jpg
+│   │   │   ├── stinker.jpg
+│   │   │   ├── tinified.zip
+│   │   │   └── whiskerframes
+│   │   │       ├── image10.png
+│   │   │       ├── image11.png
+│   │   │       ├── image13.png
+│   │   │       ├── image14.gif
+│   │   │       ├── image15.jpg
+│   │   │       ├── image16.jpeg
+│   │   │       ├── image17.gif
+│   │   │       ├── image18.gif
+│   │   │       ├── image24.png
+│   │   │       ├── image2.png
+│   │   │       ├── image34.png
+│   │   │       ├── image35.gif
+│   │   │       ├── image3.png
+│   │   │       ├── image4.png
+│   │   │       ├── image58.png
+│   │   │       ├── image59.png
+│   │   │       ├── image5.png
+│   │   │       ├── image6.PNG
+│   │   │       ├── image7.png
+│   │   │       ├── image80.gif
+│   │   │       ├── image8.jpg
+│   │   │       ├── image93.jpeg
+│   │   │       └── media2.avi
+│   │   └── js
+│   │       ├── lunr
+│   │       │   ├── lunr-en.js
+│   │       │   ├── lunr-gr.js
+│   │       │   ├── lunr.js
+│   │       │   ├── lunr.min.js
+│   │       │   └── lunr-store.js
+│   │       └── main.min.js
+│   ├── banner.js
+│   ├── bloghome.html
+│   ├── blog-test
+│   │   └── index.html
+│   ├── esw
+│   │   ├── esw
+│   │   │   └── index.html
+│   │   ├── index.html
+│   │   └── urbanag
+│   │       └── index.html
+│   ├── feed.xml
+│   ├── index.html
+│   ├── minimal-mistakes-jekyll.gemspec
+│   ├── nickel
+│   │   ├── design
+│   │   │   └── index.html
+│   │   ├── index.html
+│   │   ├── overview
+│   │   │   └── index.html
+│   │   └── process
+│   │       └── index.html
+│   ├── other
+│   │   ├── architecture
+│   │   │   └── index.html
+│   │   ├── index.html
+│   │   ├── myprojects
+│   │   │   └── index.html
+│   │   └── voronoiwaffle
+│   │       └── index.html
+│   ├── pagetest
+│   │   └── index.html
+│   ├── portfolio.html
+│   ├── portfolio.pdf
+│   ├── resume.pdf
+│   ├── robots.txt
+│   ├── sitemap.xml
+│   ├── solarcar
+│   │   ├── design
+│   │   │   └── index.html
+│   │   ├── index.html
+│   │   ├── manufacturing
+│   │   │   └── index.html
+│   │   └── overview
+│   │       └── index.html
+│   ├── staticman.yml
+│   └── whiskerframes
+│       ├── build
+│       │   └── index.html
+│       ├── future
+│       │   └── index.html
+│       ├── index.html
+│       ├── optimization
+│       │   └── index.html
+│       ├── overview
+│       │   └── index.html
+│       └── vector
+│           └── index.html
+└── staticman.yml
